@@ -25,6 +25,8 @@ So e.g. "CCSkull_01_d-sRGB_t-sRGB_EOTF" is the "CCSkull_Linear709.exr" file, und
 
 And so on.
 
+"CCSkull_10_WrongAlphaHandlingExample.jpg" is an example file of the associated alpha of the image being handled poorly by a software (e.g. Adobe Photoshop), multiplying the RGB by the alpha (on the already associated file) and therefore killing the emissive pixels with 0.0 alpha value.
+
 
 Get Filmic OCIO config by Troy Sobotka from: 
 https://github.com/sobotka/filmic-blender/tree/all-views
