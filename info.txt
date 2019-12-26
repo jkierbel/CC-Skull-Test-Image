@@ -1,4 +1,4 @@
-CCSkull_Linear709.exr is a half-float file with DWAA compression (l-25), 
+CCSkull_Linear709.exr is a half-float file with DWAA compression (l-25), with non-occlusive luminescent pixels, made for testing purposes.
 
 Rec.709/sRGB primaries.
 D65 whitepoint.
